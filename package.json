@@ -39,6 +39,7 @@
     "scripts/install.js",
     "scripts/run.js",
     "skills/**/SKILL.md",
+    "dist/release-assets/**",
     "skills/**/agents/**",
     "skills/**/references/**",
     "!skills/contract-cli-api-call/**",
